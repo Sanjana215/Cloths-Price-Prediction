@@ -9,4 +9,4 @@ Dataset: It is almost a cleaned dataset with no missing values This dataset is t
 
 ML model: This model is built using Randomforest Regressor model having 81% for training dataset and 81% accuracy for test dataset and around 70% accuracy for test dataset.
 
-Flask: This model is deployed using Flask web application. Pycharm is used where the code for the model is inherited from jupyter notebook and collaborated in pycharm by using pickle module. Each of the Constructer is transfered from model.py to app.py using pkl extensions. To create files of pkl extensions the code is written in model.py.
+Flask: This model is deployed using Flask web application. Pycharm is used where the code for the model is inherited from jupyter notebook and collaborated in pycharm by using pickle module. Each of the Constructer is transfered from model.py to app.py using pkl extensions. To create files of pkl extensions the code is written in model.py.When you run the model.py in pycharm the pkl extension files for each constructor will be created automatically.
